@@ -14,7 +14,7 @@
 /include/ "msm8226-f70ns_global_com/msm8226-f70n.dtsi"
 
 / {
-	model = "Qualcomm MSM 8926 f70nopeneu";
+	model = "Qualcomm MSM 8926v1 f70nopeneu";
 	compatible = "qcom,msm8926-f70nopeneu", "qcom,msm8926", "qcom,mtp";
 	qcom,board-id = <141 0>;
 };
