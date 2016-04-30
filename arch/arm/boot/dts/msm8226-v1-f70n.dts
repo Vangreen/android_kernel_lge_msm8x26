@@ -10,8 +10,8 @@
  * GNU General Public License for more details.
  */
 
-/include/ "/msm8226-lge-common/msm8926-v1-lge.dtsi"
-/include/ "msm8226-f70n.dtsi"
+/include/ "msm8226-lge-common/msm8226-v1-lge.dtsi"
+/include/ "msm8226-f70ns_global_com/msm8226-f70n.dtsi"
 
 / {
 	model = "Qualcomm MSM 8926 f70nopeneu";
