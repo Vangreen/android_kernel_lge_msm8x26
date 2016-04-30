@@ -114,8 +114,7 @@ ifeq ($(CONFIG_MACH_LGE),y)
 																      msm8226-v2-w7.dtb
 
 	dtb-$(CONFIG_MACH_MSM8226_W7N_GLOBAL_COM)		+= msm8226-v1-w7n.dtb \
-												
-																      msm8226-v2-w7n.dtb
+																												      msm8226-v2-w7n.dtb
 
 	dtb-$(CONFIG_MACH_MSM8926_F70N_GLOBAL_COM)		+= msm8226-f70n.dtb 
 
