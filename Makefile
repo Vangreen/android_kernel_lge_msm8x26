@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 4
 SUBLEVEL = 67
-EXTRAVERSION = --L.E.K.-G2Mini
+EXTRAVERSION = --L.E.K.-
 NAME = Saber-toothed Squirrel
 
 # *DOCUMENTATION*
